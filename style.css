@@ -1,0 +1,129 @@
+.hero{
+    
+    background:url("background.png") center center no-repeat fixed;
+    background-position:cover;
+    
+}
+#title{
+    font-family: 'Nobile', sans-serif;
+   color:white;
+    width: 214px;
+    height: 38px;
+    left: 15px;
+    top: 13px;
+    margin:12px;
+    margin-top:15px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.itemcolor{
+    color:white;
+    font-size:20px;
+    font-family: 'Noto Sans', sans-serif;
+}
+.nav-item{
+    font-family: 'Noto Sans', sans-serif;
+    padding:5px;
+    margin-right:30px;
+}
+.navst{
+    height:62px;
+    
+}
+.htext1{ 
+color:white;
+font-family: 'Noto Sans', sans-serif;
+font-weight:bold;
+font-size: 52px;
+line-height: 50px;
+margin-top:40px;
+margin-bottom:0px;
+text-align: left;
+}
+.htext2{
+   line-height: 8px;
+   color:white;
+    padding-top: 13px;
+    font-family: 'Noto Sans', sans-serif;
+    font-style:normal;
+    font-size:21px;
+    margin-bottom:0px;
+    text-align: left;  
+}
+
+.htext{
+    margin-left:150px;
+     margin-right:0px;
+    margin-top:90px;
+    margin-bottom:220px;
+
+}
+.himg{
+    margin-top:30px;
+    padding-bottom:20px;
+}
+.rectangle {
+    
+    height: 31px;
+    width: 162px;
+    background-color:black;
+    margin-right: 73px;
+    margin-top:83px;
+    margin-bottom:115px;
+
+   
+  }
+  .rec{
+      display: flex;
+      justify-content:space-around;
+      margin-left:45px;   
+  }
+
+  .title2{
+   
+    font-family: 'Noto Sans', sans-serif;
+    letter-spacing:5px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;    
+    align-items: center;
+    text-align: center;
+    margin-top:-8px;
+    color: #000000;
+    
+  }
+  .ptext1{
+      text-align: center;
+      font-family: 'Noto Sans', sans-serif;
+      width: 511px;
+      height: 262px;
+      margin-top:43px;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 24px;
+      line-height: 33px;
+      text-align: center;
+  }
+  .pimg{
+    width: 511px;
+    height: 262px;
+    left: 148px;
+    top: 124px;
+    margin-top:37px;
+    border:2px solid black;
+    background: #FFFFFF;
+  }
+
+  hr{
+      width:60%;
+      background-color:black;
+  }
+
+
