@@ -4,7 +4,7 @@
     
     background:url("background.png") center center no-repeat fixed;
     background-position:cover;
-    
+    height:100%;
 }
 
 #title{
